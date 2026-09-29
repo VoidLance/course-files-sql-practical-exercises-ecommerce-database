@@ -93,4 +93,4 @@ This repository is maintained by [Alistair Sweeting](https://github.com/VoidLanc
 
 ## License
 
-See the repository's `LICENSE` file if one is added or provided by the project owner. This README does not reproduce license text.
+No `LICENSE` file is currently included in the repository. Add or consult the project owner's license terms before redistributing these materials.
